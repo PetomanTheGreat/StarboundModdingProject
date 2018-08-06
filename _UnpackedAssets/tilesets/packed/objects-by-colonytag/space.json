@@ -1,0 +1,26 @@
+{
+  "margin" : 0,
+  "name" : "objects-by-colonytag/space",
+  "properties" : {
+  },
+  "spacing" : 0,
+  "tilecount" : 1,
+  "tileheight" : 8,
+  "tileproperties" : {
+    "0" : {
+      "//description" : "A legendary testament to early space travel.",
+      "//name" : "lunarlander",
+      "//shortdescription" : "Lunar Lander",
+      "imagePositionX" : "-32",
+      "imagePositionY" : "0",
+      "object" : "lunarlander",
+      "tilesetDirection" : "right"
+    }
+  },
+  "tiles" : {
+    "0" : {
+      "image" : "../../../../../tiled/packed/objects/lunarlander.png"
+    }
+  },
+  "tilewidth" : 8
+}
