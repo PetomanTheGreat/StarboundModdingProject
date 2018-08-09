@@ -1,0 +1,11 @@
+[
+{
+"op": "replace",
+"path" : "/shortdescription",
+"value": "Test Flashlight"
+}, {
+"op": "replace",
+"path" : "/lightColor",
+"value": [100,100,100]
+}
+]
