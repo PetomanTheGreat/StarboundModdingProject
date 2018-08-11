@@ -1,0 +1,39 @@
+{
+  "objectName" : "changingbooth",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Just enough privacy.",
+  "shortdescription" : "Changing Booth",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 1000,
+
+  "apexDescription" : "A changing booth, for you know, changing.",
+  "avianDescription" : "A changing booth, for you know, changing.",
+  "floranDescription" : "A changing booth, for you know, changing.",
+  "glitchDescription" : "A changing booth, for you know, changing.",
+  "humanDescription" : "A changing booth, for you know, changing.",
+  "hylotlDescription" : "A changing booth, for you know, changing.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [0, 22],
+  "sitOrientation" : "lay",
+  "sitAngle" : 0,
+  "sitCoverImage" : "/items/objects/changingbooth/changingboothcover.png",
+
+  "inventoryIcon" : "changingboothicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "changingbooth.png",
+
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

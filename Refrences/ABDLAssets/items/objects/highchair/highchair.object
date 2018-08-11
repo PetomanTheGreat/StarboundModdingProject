@@ -1,0 +1,38 @@
+{
+  "objectName" : "highchair",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Num num time",
+  "shortdescription" : "High Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+
+  "apexDescription" : "A high chair, a good chair",
+  "avianDescription" : "A high chair, a good chair",
+  "floranDescription" : "A high chair, a good chair",
+  "glitchDescription" : "A high chair, a good chair",
+  "humanDescription" : "A high chair, a good chair",
+  "hylotlDescription" : "A high chair, a good chair",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 25],
+  "sitAngle" : 0,
+  "sitCoverImage" : "/items/objects/highchair/highchaircover.png",
+
+  "inventoryIcon" : "highchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "highchair.png",
+
+      "imagePosition" : [-10, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

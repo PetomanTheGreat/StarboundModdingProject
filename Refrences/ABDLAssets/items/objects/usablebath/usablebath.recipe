@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 14 }
+  ],
+  "output" : {
+    "item" : "usablebath",
+    "count" : 1
+  },
+  "groups" : [ "abdl", "furniture", "objects", "all" ]
+}

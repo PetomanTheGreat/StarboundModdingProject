@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 1 },
+	{ "item" : "fabric", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "babsinspacesign",
+    "count" : 1
+  },
+  "groups" : [ "abdl", "decorative", "objects", "all" ]
+}

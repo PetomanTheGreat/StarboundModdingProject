@@ -1,0 +1,7 @@
+{
+  "name" : "derivativemodname",
+  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "path" : ".",
+  "requires" : [],
+  "includes" : [ "abdlmaker" ]
+}

@@ -1,0 +1,42 @@
+{
+  "objectName" : "metalcrib",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An Iron crib, for extra security. Made by CS-Fox.",
+  "shortdescription" : "Metal Crib",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 1000,
+
+  "apexDescription" : "A basic metal crib. Bars on the side so baby doesn't fall out.",
+  "avianDescription" : "A basic metal crib. Bars on the side so baby doesn't fall out.",
+  "floranDescription" : "A basic metal crib. Bars on the side so baby doesn't fall out.",
+  "glitchDescription" : "A basic metal crib. Bars on the side so baby doesn't fall out.",
+  "humanDescription" : "A basic metal crib. Bars on the side so baby doesn't fall out.",
+  "hylotlDescription" : "A basic metal crib. Bars on the side so baby doesn't fall out.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/items/objects/metalcrib/metalcribcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [ "bed1" ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "metalcribicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "metalcrib.png",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

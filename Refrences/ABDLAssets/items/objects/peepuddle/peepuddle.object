@@ -1,0 +1,36 @@
+{
+  "objectName" : "peepuddle",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 1,
+  "description" : "The pee of a piddle pants.",
+  "shortdescription" : "peepuddle",
+  "race" : "generic",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "Did somebody wet themselves?",
+  "avianDescription" : "Did somebody wet themselves?",
+  "floranDescription" : "Did ssssomebody wet themsselvesss?",
+  "glitchDescription" : "Curious. Did somebody wet themselves?",
+  "humanDescription" : "Did somebody wet themselves?",
+  "hylotlDescription" : "Did somebody wet themselves? How uncivilized.",
+
+  "inventoryIcon" : "peepuddleicon.png",
+  "orientations" : [
+
+    {
+      "dualImage" : "peepuddle.png",
+	  
+	  "imagePosition" : [-15, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+
+
+}

@@ -1,0 +1,37 @@
+{
+  "objectName" : "changingtable",
+  "category": "furniture",
+  "rarity" : "Common",
+  "price" : 1000,
+  "description" : "A standard baby supply table.",
+  "shortdescription" : "Changing Table",
+  "race" : "generic",
+
+  "apexDescription": "Oh, a changing table.",
+  "avianDescription": "Oh, a changing table.",
+  "floranDescription": "Oh, changing table.",
+  "glitchDescription": "Curious. A changing table.",
+  "humanDescription": "Oh, a changing table.",
+  "hylotlDescription": "Oh, a changing table.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitStatusEffects" : [ "regeneration1" ],
+
+  "inventoryIcon" : "changingtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "changingtable.png",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

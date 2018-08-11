@@ -1,0 +1,32 @@
+{
+  "objectName" : "babsinspacesign",
+  "rarity" : "Common",
+  "description" : "Babs in spaaaaaaace!",
+  "shortdescription" : "Space Babs",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 10,
+
+  "apexDescription" : "Space Babs on an adventure!",
+  "avianDescription" : "Space Babs on an adventure!",
+  "floranDescription" : "Space Babs on an adventure!",
+  "glitchDescription" : "Space Babs on an adventure!",
+  "humanDescription" : "Space Babs on an adventure!",
+  "hylotlDescription" : "Space Babs on an adventure!",
+  "novakidDescription" : "Space Babs on an adventure!",
+
+  "inventoryIcon" : "babsinspaceicon.png",
+  "orientations" : [
+    {
+      "image" : "babsinspace.png",
+
+      "imagePosition" : [-16, -16],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

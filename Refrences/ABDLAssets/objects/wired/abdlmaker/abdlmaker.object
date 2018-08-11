@@ -1,0 +1,50 @@
+{
+  "objectName" : "abdlmaker",
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "filter" : [ "abdl" ]
+  },
+
+  "scripts" : [ "/objects/wired/abdlmaker/abdlmaker.lua" ],
+  "scriptDelta" : 5,
+  
+
+  "filterButtons" : [
+  {"baseImage" : "/objects/wired/buttons/diaperButton.png",
+    "baseImageChecked" : "/objects/wired/buttons/diaperButtonChecked.png",
+    "filter" : "diaper"
+  },
+  {"baseImage" : "/objects/wired/buttons/dirtyDiaperButton.png",
+    "baseImageChecked" : "/objects/wired/buttons/dirtyDiaperButtonChecked.png",
+    "filter" : "dirtydiaper"
+  }
+],
+  
+  "printable" : false,
+  "description" : "The place where crinkle fantasies run wild.",
+  "shortdescription" : "ABDL Maker",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "I can make all the cute things~",
+  "avianDescription" : "I can make all the cute things~",
+  "floranDescription" : "I can make all the cute thingsss~",
+  "glitchDescription" : "I can make all the cute things.",
+  "humanDescription" : "I can make all the cute things~",
+  "hylotlDescription" : "I can make all the cute things~",
+
+  "inventoryIcon" : "abdlmakericon.png",
+  "orientations" : [
+    {
+      "dualImage" : "abdlmaker.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

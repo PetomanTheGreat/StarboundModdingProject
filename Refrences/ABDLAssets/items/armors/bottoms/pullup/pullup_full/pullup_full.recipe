@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 5 }
+  ],
+  "output" : { "item" : "pullup_full", "count" : 1 },
+  "groups" : [ "abdl", "diaper", "armor", "legs" ]
+}

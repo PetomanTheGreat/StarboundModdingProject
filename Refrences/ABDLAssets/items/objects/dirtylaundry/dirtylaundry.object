@@ -1,0 +1,36 @@
+{
+  "objectName" : "dirtylaundry",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 1,
+  "description" : "My gosh, is anyone going to clean this up?",
+  "shortdescription" : "dirtylaundry",
+  "race" : "generic",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "Big 'ol pile of clothes.",
+  "avianDescription" : "Big 'ol pile of clothes.",
+  "floranDescription" : "Big 'ol pile of clothes.",
+  "glitchDescription" : "Big 'ol pile of clothes.",
+  "humanDescription" : "Big 'ol pile of clothes.",
+  "hylotlDescription" : "Big 'ol pile of clothes.",
+
+  "inventoryIcon" : "dirtylaundryicon.png",
+  "orientations" : [
+
+    {
+      "dualImage" : "dirtylaundry.png",
+	  
+	  "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+
+
+
+}

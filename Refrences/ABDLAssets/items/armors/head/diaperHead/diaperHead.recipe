@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "diaperHead",
+    "count" : 1
+  },
+  "groups" : [ "abdl", "objects", "all" ]
+}

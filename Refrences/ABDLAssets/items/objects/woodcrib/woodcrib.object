@@ -1,0 +1,42 @@
+{
+  "objectName" : "woodcrib",
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An wooden crib, for cozy sleeping.",
+  "shortdescription" : "Wood Crib",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 1000,
+
+  "apexDescription" : "A basic wood crib. Bars on the side so baby doesn't fall out.",
+  "avianDescription" : "A basic wood crib. Bars on the side so baby doesn't fall out.",
+  "floranDescription" : "A basic wood crib. Bars on the side so baby doesn't fall out.",
+  "glitchDescription" : "A basic wood crib. Bars on the side so baby doesn't fall out.",
+  "humanDescription" : "A basic wood crib. Bars on the side so baby doesn't fall out.",
+  "hylotlDescription" : "A basic wood crib. Bars on the side so baby doesn't fall out.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 13],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/items/objects/woodcrib/woodcribcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [ "bed1" ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "woodcribicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "woodcrib.png",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

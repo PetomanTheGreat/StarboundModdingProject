@@ -1,0 +1,43 @@
+{
+  "itemName" : "pacifier",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Suckle suckle~",
+  "shortdescription" : "Pacifier",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+
+  "colorOptions" : [
+    /* LIGHT GREY */
+    { "f07bb7" : "cccccc", "db609f" : "9e9e9e", "c24f88" : "616161", "6f2919" : "383838" },
+    /* BLACK */
+    { "f07bb7" : "838383", "db609f" : "555555", "c24f88" : "383838", "6f2919" : "151515" },
+    /* GREY */
+    { "f07bb7" : "b5b5b5", "db609f" : "808080", "c24f88" : "555555", "6f2919" : "303030" },
+    /* WHITE */
+    { "f07bb7" : "e6e6e6", "db609f" : "b6b6b6", "c24f88" : "7b7b7b", "6f2919" : "373737" },
+    /* RED */
+    { "f07bb7" : "f4988c", "db609f" : "d93a3a", "c24f88" : "932625", "6f2919" : "601119" },
+    /* ORANGE */
+    { "f07bb7" : "ffd495", "db609f" : "ea9931", "c24f88" : "af4e00", "6f2919" : "6e2900" },
+    /* YELLOW */
+    { "f07bb7" : "ffffa7", "db609f" : "e2c344", "c24f88" : "a46e06", "6f2919" : "642f00" },
+    /* GREEN */
+    { "f07bb7" : "b2e89d", "db609f" : "51bd3b", "c24f88" : "247824", "6f2919" : "144216" },
+    /* BLUE */
+    { "f07bb7" : "96cbe7", "db609f" : "5588d4", "c24f88" : "344495", "6f2919" : "1a1c51" },
+    /* PURPLE */
+    { "f07bb7" : "d29ce7", "db609f" : "a451c4", "c24f88" : "6a2284", "6f2919" : "320c40" },
+    /* PINK */
+    { "f07bb7" : "eab3db", "db609f" : "d35eae", "c24f88" : "97276d", "6f2919" : "59163f" },
+    /* BROWN */
+    { "f07bb7" : "ccae7c", "db609f" : "a47844", "c24f88" : "754c23", "6f2919" : "472b13" }
+
+  ]
+}

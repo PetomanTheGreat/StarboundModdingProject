@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "money", "count" : 30 }
+  ],
+  "output" : { "item" : "rattlehammer", "count" : 1 },
+  "groups" : [ "abdl", "weapons", "all" ]
+}

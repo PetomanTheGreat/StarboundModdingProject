@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "dirtylaundry", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fabric",
+    "count" : 4
+  },
+  "groups" : [ "washer", "furniture", "objects", "all" ]
+}

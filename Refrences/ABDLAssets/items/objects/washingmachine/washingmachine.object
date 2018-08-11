@@ -1,0 +1,41 @@
+{
+  "objectName" : "washingmachine",
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "container",
+
+  "category" : "storage",  
+  "price" : 50,
+  "description" : "Washes, AKA washing machine",
+  "shortdescription" : "Washing Machine",
+  "race" : "generic",
+
+  "apexDescription" : "Keeps my clothes nice and fresh~",
+  "avianDescription" : "Keeps my clothes nice and fresh~",
+  "floranDescription" : "Keeps my clothesss nice and fressh~",
+  "glitchDescription" : "Keeps my clothes nice and fresh.",
+  "humanDescription" : "Keeps my clothes nice and fresh~",
+  "hylotlDescription" : "Keeps my clothes nice and fresh~",
+
+  "inventoryIcon" : "washingmachineicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "washingmachine.png",
+
+      "imagePosition" : [-6, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  
+  "openSounds" : [ "/sfx/objects/locker_open.wav" ],
+  "closeSounds" : [ "/sfx/objects/locker_close.wav" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

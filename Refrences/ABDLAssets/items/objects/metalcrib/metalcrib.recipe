@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 6 }
+  ],
+  "output" : {
+    "item" : "metalcrib",
+    "count" : 1
+  },
+  "groups" : [ "abdl", "furniture", "objects", "all" ]
+}

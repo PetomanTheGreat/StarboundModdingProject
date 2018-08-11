@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "cobblestonebrick", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "washingmachine",
+    "count" : 1
+  },
+  "groups" : [ "abdl", "objects", "all" ]
+}

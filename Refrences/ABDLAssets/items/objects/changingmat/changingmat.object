@@ -1,0 +1,37 @@
+{
+  "objectName" : "changingmat",
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 1000,
+  "description" : "A mat for on the go, for after you go~",
+  "shortdescription" : "Changing Mat",
+  "race" : "generic",
+
+  "apexDescription" : "Better than changing on the cold ground.",
+  "avianDescription" : "Better than changing on the cold ground.",
+  "floranDescription" : "Better than changing on the cold ground.",
+  "glitchDescription" : "Better than changing on the cold ground.",
+  "humanDescription" : "Better than changing on the cold ground.",
+  "hylotlDescription" : "Better than changing on the cold ground.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-7, 7],
+  "sitOrientation" : "lay",
+  "sitAngle" : 80,
+  "sitStatusEffects" : [ "regeneration1" ],
+
+  "inventoryIcon" : "changingmaticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "changingmat.png",
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
