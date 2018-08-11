@@ -2,4 +2,9 @@
 "op" : "add",
 "path" : "/defaultBlueprints/tier1/-",
 "value" : { "item" : "fetmod_slimdiaper" }
+}, 
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "fetmod_highcutslimdiaper" }
 } ]
