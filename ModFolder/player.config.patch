@@ -12,6 +12,10 @@
 "op" : "add",
 "path" : "/defaultBlueprints/tier1/-",
 "value" : { "item" : "fetmod_woodenchangingtable" }
-} 
-
+} ,
+{
+"op" : "add",
+"path" : "/defaultBlueprints/tier1/-",
+"value" : { "item" : "fetmod_improvisedchangingtable" }
+}
 ]

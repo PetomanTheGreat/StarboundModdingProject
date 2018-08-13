@@ -1,18 +1,18 @@
 {
-  "objectName" : "fetmod_woodenchangingtable",
+  "objectName" : "fetmod_improvisedchangingtable",
   "colonyTags" : ["misc"],
   "printable" : false,
   "rarity" : "Common",
-  "description" : "A comfy wooden changing table.",
-  "shortdescription" : "Wooden Changing Table",
+  "description" : "A hastily-assembled changing table.",
+  "shortdescription" : "Improvised Changing Table",
   "race" : "generic",
   "category" : "furniture",
   "price" : 45,
 
-  "inventoryIcon" : "fetmod_woodenchangingtableicon.png",
+  "inventoryIcon" : "fetmod_improvisedchangingtableicon.png",
   "orientations" : [
     {
-      "dualImage" : "fetmod_woodenchangingtable.png:<color>",
+      "dualImage" : "fetmod_improvisedchangingtable.png:<color>",
 
       "imagePosition" : [-24, 0],
       "frames" : 1,
@@ -26,7 +26,7 @@
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
-  "sitPosition" : [-10, 15],
+  "sitPosition" : [-10, 20],
   "sitOrientation" : "lay",
   "sitAngle" : 90,
   "sitStatusEffects" : [
